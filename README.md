@@ -13,8 +13,9 @@
 <!-- Você pode adicionar os ícones que quiser -->
 
 ## 📫 Contato
-- [LinkedIn](https://www.linkedin.com/in/gabriel-bergamini-9288a02a8/)
-- [Email](mailto:gabrielbergamini05@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/gabriel-bergamini-9288a02a8/)) 
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gabrielbergamini05@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/bielbergamini/)
 - 
 
 <!---
