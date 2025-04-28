@@ -5,6 +5,15 @@
 - 💻 Apaixonado por tecnologia, desenvolvimento de software e automação
 - 🌱 Atualmente aprendendo: Python
 
+- 
+## 📈 Estatísticas do GitHub
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=default&count_private=true&hide=issues" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=default" />
+</p>
+
+
 ## 🛠️ Tecnologias e Ferramentas
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
