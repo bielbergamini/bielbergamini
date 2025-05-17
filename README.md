@@ -5,7 +5,6 @@
 - 💻 Apaixonado por tecnologia, desenvolvimento de software e automação
 - 🌱 Atualmente aprendendo: Python
 
-- 
 ## 📈 Estatísticas do GitHub
 
 <p align="left">
