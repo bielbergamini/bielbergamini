@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Gabriel!
+# Olá, eu sou o Gabriel!
 
 ## 🚀 Sobre mim
 - 🎓 Estudante de Análise e desenvolvimento de sistemas na FAAMESP e desenvolvedor na RBA
