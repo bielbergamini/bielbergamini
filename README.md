@@ -3,7 +3,7 @@
 Meet **Gabriel**, a passionate software developer focused on automation, web development, and artificial intelligence.  
 Gabriel has a deep interest in solving real-world problems through code and enjoys designing tools that make workflows faster and smarter.
 
-Over the years, Gabriel has developed solid experience in **Python** and **C#* working on automation scripts and back-end applications.  
+Over the years, Gabriel has developed solid experience in **Python** and **C#** working on automation scripts and back-end applications.  
 He is also experienced with frameworks such as **FastAPI**, **API REST**, **ASP.NET Core** and **Angular**, and constantly seeks to improve his craft through challenging projects.
 
 In addition to his technical skills, Gabriel is a detail-oriented professional who values **clean code, usability, and performance**.  
