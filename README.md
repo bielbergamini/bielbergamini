@@ -1,32 +1,22 @@
-# Olá, eu sou o Gabriel!
+# Welcome to my profile!
 
-## 🚀 Sobre mim
-- 🎓 Estudante de Análise e desenvolvimento de sistemas na FAAMESP e desenvolvedor na RBA
-- 💻 Apaixonado por tecnologia, desenvolvimento de software e automação
-- 🌱 Atualmente aprendendo: Python
+Meet **Gabriel**, a passionate software developer focused on automation, web development, and artificial intelligence.  
+Gabriel has a deep interest in solving real-world problems through code and enjoys designing tools that make workflows faster and smarter.
 
-## 📈 Estatísticas do GitHub
+Over the years, Gabriel has developed solid experience in **Python** and **C#* working on automation scripts and back-end applications.  
+He is also experienced with frameworks such as **FastAPI**, **API REST**, **ASP.NET Core** and **Angular**, and constantly seeks to improve his craft through challenging projects.
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bielbergamini&show_icons=true&theme=default&count_private=true&hide=issues" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielbergamini&layout=compact&theme=default" />
-</p>
+In addition to his technical skills, Gabriel is a detail-oriented professional who values **clean code, usability, and performance**.  
+He enjoys collaborating with teams, exploring new technologies, and building solutions that truly make a difference.
 
+Looking ahead, Gabriel aims to keep expanding his knowledge in backend architecture and AI integration, while continuing to build automation tools that help companies optimize their operations.  
+He believes that **technology is one of the strongest forces for positive change** when used with purpose and creativity.
 
-## 🛠️ Tecnologias e Ferramentas
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-<!-- Você pode adicionar os ícones que quiser -->
+---
 
-## 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/gabriel-bergamini-9288a02a8/)) 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gabrielbergamini05@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/bielbergamini/)
-- 
+_That might’ve sounded too formal, but long story short — I just love building things that work._  
+If you’d like to connect or discuss a project, feel free to reach out on my [LinkedIn](https://www.linkedin.com/in/gabriel-bergamini-9288a02a8/) or check out my pinned repositories below. 🚀
 
-<!---
-bielbergamini/bielbergamini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=seuusuario&color=2ecc71&style=for-the-badge)
